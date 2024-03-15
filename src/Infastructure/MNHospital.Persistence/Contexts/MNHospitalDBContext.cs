@@ -18,4 +18,5 @@ public class MNHospitalDBContext:DbContext
         base.OnModelCreating(modelBuilder);
     }
 
+
 }
